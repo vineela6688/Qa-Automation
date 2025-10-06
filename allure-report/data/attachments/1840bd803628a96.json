@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//td[text()=\"Date of Birth\"]/following-sibling::td"
+}

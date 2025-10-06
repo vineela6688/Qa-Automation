@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[contains(@id,\"react-select\") and text()=\"Delhi\"]"
+}
